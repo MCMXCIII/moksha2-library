@@ -1,5 +1,5 @@
 ---
-title: "This is such a long headline and i dont know what to write so i keep continiung"
+title: "Moksha library and the Frequently Asked Questions"
 date: "2020-01-25"
 draft: false
 path: "/blog/example-title"
