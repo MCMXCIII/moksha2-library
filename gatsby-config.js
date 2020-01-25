@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Cypher`,
+    title: `Moksha`,
     subtitle: `Moksha-Library`,
     description: `A library of freedom.`,
     author: `@niklasmtj`,
