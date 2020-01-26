@@ -2,7 +2,7 @@
 title: "Moksha library and the Frequently Asked Questions"
 date: "2020-01-25"
 draft: false
-path: "/blog/example-title"
+path: "/faq"
 ---
 ## Download your textbook for only a dollar 
 
