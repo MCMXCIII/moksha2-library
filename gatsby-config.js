@@ -3,7 +3,7 @@ module.exports = {
     title: `Moksha`,
     subtitle: `Moksha-Library`,
     description: `A library of freedom.`,
-    author: `@niklasmtj`,
+    author: `@nik`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
